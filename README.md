@@ -14,6 +14,13 @@ Master No | Name | Twitter handle | Tips Url
 
 <hr />
 
+## Whose Tips can be added ?
+
+Any one who is good with Angular and Rxjs tips can be added here. If anytime you come across a good tip or best practice anywhere on Internet can add here. You can add your tips if you have any :)
+
+<hr />
+
 ### Contributing Guide
 
 Read our [contributing guide](/CONTRIBUTING.md) to learn about how you can contribute tips and best practices, how you can suggest improvments.
+
