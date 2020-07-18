@@ -11,3 +11,9 @@ Master No | Name | Twitter handle | Tips Url
 ----------| -----|----------------|---------
 1 | Alex Inking | @Waterplea | https://github.com/sksaifuddin/angular-rxjs-tips/tree/master/contents/masters/Alex_Inkin
 2 | Roman Sedov | @marsibarsi | https://github.com/sksaifuddin/angular-rxjs-tips/tree/master/contents/masters/Roman_Sedov
+
+<hr />
+
+### Contributing Guide
+
+Read our [contributing guide](/CONTRIBUTING.md) to learn about how you can contribute tips and best practices, how you can suggest improvments.
