@@ -9,7 +9,7 @@ Angular and RxJS has lot of great developers, they post lots of tips and best pr
 
 Master No | Name | Twitter handle | Tips Url
 ----------| -----|----------------|---------
-1 | Alex Inking | @Waterplea | https://github.com/sksaifuddin/angular-rxjs-tips/tree/master/contents/masters/Alex_Inkin
+1 | Alex Inkin | @Waterplea | https://github.com/sksaifuddin/angular-rxjs-tips/tree/master/contents/masters/Alex_Inkin
 2 | Roman Sedov | @marsibarsi | https://github.com/sksaifuddin/angular-rxjs-tips/tree/master/contents/masters/Roman_Sedov
 
 <hr />
